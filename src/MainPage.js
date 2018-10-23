@@ -15,7 +15,7 @@ class MainPage extends Component {
                         <div className="hero_txt">
                             <h1 className="hidden-xs">Smart technology to revolutionise buying and selling property</h1>
                             <p className="hero_lead_txt">Interested in what we are doing,<br />want to be involved or just fancy a chat?</p>
-                            <a href="" className="btn custom_theme_btn">Register to Beta</a>
+                            <a href="#about_us" className="btn custom_theme_btn">Register to Beta</a>
                         </div>
                         <div className="arrow_banner links_anchor">
                             <a href="#about_us"><img alt="myimg" src="images/arrow.png" /></a>
