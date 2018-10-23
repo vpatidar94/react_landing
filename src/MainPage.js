@@ -10,15 +10,15 @@ class MainPage extends Component {
                     <div className="container custom_container height100 display_table">
                         <h1 className="visible-xs">Smart technology to revolutionise buying and selling property</h1>
                         <div className="hero_img">
-                            <img src="images/smart-technology.png" />
+                            <img alt="myimg" alt="myimg" src="images/smart-technology.png" />
                         </div>
                         <div className="hero_txt">
                             <h1 className="hidden-xs">Smart technology to revolutionise buying and selling property</h1>
                             <p className="hero_lead_txt">Interested in what we are doing,<br />want to be involved or just fancy a chat?</p>
-                            <a href="#" className="btn custom_theme_btn">Register to Beta</a>
+                            <a href="javascript.void(0)" className="btn custom_theme_btn">Register to Beta</a>
                         </div>
                         <div className="arrow_banner links_anchor">
-                            <a href="#about_us"><img src="images/arrow.png" /></a>
+                            <a href="#about_us"><img alt="myimg" alt="myimg" src="images/arrow.png" /></a>
                         </div>
                     </div>
                 </section>
@@ -51,21 +51,21 @@ class MainPage extends Component {
                                     <div className="platform_slider">
                                         <div className="col-md-4 col-sm-4">
                                             <div className="platform_grid">
-                                                <img src="images/simplify.png" />
+                                                <img alt="myimg" alt="myimg" src="images/simplify.png" />
                                                 <h3>Simplify the process</h3>
                                                 <p>Eliminate confusion by using our end-to-end, seamless online transaction platform.</p>
                                             </div>
                                         </div>
                                         <div className="col-md-4 col-sm-4">
                                             <div className="platform_grid">
-                                                <img src="images/faster.png" />
+                                                <img alt="myimg" alt="myimg" src="images/faster.png" />
                                                 <h3>Get it done faster</h3>
                                                 <p>Don't get stuck playing the waiting game. Make quicker and better decisions with real time housing market data.</p>
                                             </div>
                                         </div>
                                         <div className="col-md-4 col-sm-4">
                                             <div className="platform_grid">
-                                                <img src="images/best-deal.png" />
+                                                <img alt="myimg" alt="myimg" src="images/best-deal.png" />
                                                 <h3>Make your best deal</h3>
                                                 <p>Stay connected 24/7 with our online platform. Get quick access to real time information and state of the art decision-making tools.</p>
                                             </div>
@@ -76,21 +76,21 @@ class MainPage extends Component {
                                     <div className="platform_slider">
                                         <div className="col-md-4 col-sm-4">
                                             <div className="platform_grid">
-                                                <img src="images/be-first.png" />
+                                                <img alt="myimg" alt="myimg" src="images/be-first.png" />
                                                 <h3>Be the first to know</h3>
                                                 <p>Get access to deep market insights with real-time updates. Know valuation trends and other important facts.</p>
                                             </div>
                                         </div>
                                         <div className="col-md-4 col-sm-4">
                                             <div className="platform_grid">
-                                                <img src="images/loyal-clients.png" />
+                                                <img alt="myimg" alt="myimg" src="images/loyal-clients.png" />
                                                 <h3>Create happier, loyal clients</h3>
                                                 <p>Simplify the customer journey with our online, end-to-end process; keep them engaged and avoid frustration.</p>
                                             </div>
                                         </div>
                                         <div className="col-md-4 col-sm-4">
                                             <div className="platform_grid">
-                                                <img src="images/optimise.png" />
+                                                <img alt="myimg" alt="myimg" src="images/optimise.png" />
                                                 <h3>Optimize your deal flow</h3>
                                                 <p>Take advantage of our leads marketplace to get access to verified buyers and sellers.</p>
                                             </div>
@@ -101,21 +101,21 @@ class MainPage extends Component {
                                     <div className="platform_slider">
                                         <div className="col-md-4 col-sm-4">
                                             <div className="platform_grid">
-                                                <img src="images/get-ahead.png" />
+                                                <img alt="myimg" alt="myimg" src="images/get-ahead.png" />
                                                 <h3>Get ahead of the curve</h3>
                                                 <p>Gain insights from data-driven smart analysis tools to spot trends first to make the right investments.</p>
                                             </div>
                                         </div>
                                         <div className="col-md-4 col-sm-4">
                                             <div className="platform_grid">
-                                                <img src="images/confidence.png" />
+                                                <img alt="myimg" alt="myimg" src="images/confidence.png" />
                                                 <h3>Move with confidence</h3>
                                                 <p>Have all necessary financial verification and documentation uploaded and stored securely in one place.</p>
                                             </div>
                                         </div>
                                         <div className="col-md-4 col-sm-4">
                                             <div className="platform_grid">
-                                                <img src="images/save-time.png" />
+                                                <img alt="myimg" alt="myimg" src="images/save-time.png" />
                                                 <h3>Save time and hassles</h3>
                                                 <p>Simplify buying and selling with our online, end-to-end, automated transaction platform.</p>
                                             </div>
@@ -144,7 +144,7 @@ class MainPage extends Component {
                                             <div>
                                                 <div className="col-md-4 col-sm-4 col-xs-12">
                                                     <div className="platform_grid">
-                                                        <img src="images/simplify.png" />
+                                                        <img alt="myimg" alt="myimg" src="images/simplify.png" />
                                                         <h3>Simplify the process</h3>
                                                         <p>Eliminate confusion by using our end-to-end, seamless online transaction platform.</p>
                                                     </div>
@@ -154,7 +154,7 @@ class MainPage extends Component {
                                             <div>
                                                 <div className="col-md-4 col-sm-4 col-xs-12">
                                                     <div className="platform_grid">
-                                                        <img src="images/faster.png" />
+                                                        <img alt="myimg" alt="myimg" src="images/faster.png" />
                                                         <h3>Get it done faster</h3>
                                                         <p>Don't get stuck playing the waiting game. Make quicker and better decisions with real time housing market data.</p>
                                                     </div>
@@ -162,10 +162,10 @@ class MainPage extends Component {
 
                                             </div>
                                             <div>
-                                                <img className="hidden" src="" />
+                                                <img alt="myimg" alt="myimg" className="hidden" src="" />
                                                 <div className="col-md-4 col-sm-4">
                                                     <div className="platform_grid">
-                                                        <img src="images/best-deal.png" />
+                                                        <img alt="myimg" src="images/best-deal.png" />
                                                         <h3>Make your best deal</h3>
                                                         <p>Stay connected 24/7 with our online platform. Get quick access to real time information and state of the art decision-making tools.</p>
                                                     </div>
@@ -182,7 +182,7 @@ class MainPage extends Component {
                                             <div>
                                                 <div className="col-md-4 col-sm-4 col-xs-12">
                                                     <div className="platform_grid">
-                                                        <img src="images/be-first.png" />
+                                                        <img alt="myimg" src="images/be-first.png" />
                                                         <h3>Be the first to know</h3>
                                                         <p>Get access to deep market insights with real-time updates. Know valuation trends and other important facts.</p>
                                                     </div>
@@ -192,7 +192,7 @@ class MainPage extends Component {
                                             <div>
                                                 <div className="col-md-4 col-sm-4 col-xs-12">
                                                     <div className="platform_grid">
-                                                        <img src="images/loyal-clients.png" />
+                                                        <img alt="myimg" src="images/loyal-clients.png" />
                                                         <h3>Create happier, loyal clients</h3>
                                                         <p>Simplify the customer journey with our online, end-to-end process; keep them engaged and avoid frustration.</p>
                                                     </div>
@@ -200,10 +200,10 @@ class MainPage extends Component {
 
                                             </div>
                                             <div>
-                                                <img className="hidden" src="" />
+                                                <img alt="myimg" className="hidden" src="" />
                                                 <div className="col-md-4 col-sm-4">
                                                     <div className="platform_grid">
-                                                        <img src="images/optimise.png" />
+                                                        <img alt="myimg" src="images/optimise.png" />
                                                         <h3>Optimize your deal flow</h3>
                                                         <p>Take advantage of our leads marketplace to get access to verified buyers and sellers.</p>
                                                     </div>
@@ -220,7 +220,7 @@ class MainPage extends Component {
                                             <div>
                                                 <div className="col-md-4 col-sm-4 col-xs-12">
                                                     <div className="platform_grid">
-                                                        <img src="images/get-ahead.png" />
+                                                        <img alt="myimg" src="images/get-ahead.png" />
                                                         <h3>Get ahead of the curve</h3>
                                                         <p>Gain insights from data-driven smart analysis tools to spot trends first to make the right investments.</p>
                                                     </div>
@@ -230,7 +230,7 @@ class MainPage extends Component {
                                             <div>
                                                 <div className="col-md-4 col-sm-4 col-xs-12">
                                                     <div className="platform_grid">
-                                                        <img src="images/confidence.png" />
+                                                        <img alt="myimg" src="images/confidence.png" />
                                                         <h3>Move with confidence</h3>
                                                         <p>Have all necessary financial verification and documentation uploaded and stored securely in one place.</p>
                                                     </div>
@@ -238,10 +238,10 @@ class MainPage extends Component {
 
                                             </div>
                                             <div>
-                                                <img className="hidden" src="" />
+                                                <img alt="myimg" className="hidden" src="" />
                                                 <div className="col-md-4 col-sm-4">
                                                     <div className="platform_grid">
-                                                        <img src="images/save-time.png" />
+                                                        <img alt="myimg" src="images/save-time.png" />
                                                         <h3>Save time and hassles</h3>
                                                         <p>Simplify buying and selling with our online, end-to-end, automated transaction platform.</p>
                                                     </div>
@@ -265,7 +265,7 @@ class MainPage extends Component {
                         <div>
                             <div className="col-md-4 col-sm-4 col-xs-12">
                             <div className="platform_grid">
-                                <img src="images/get-ahead.png" />
+                                <img alt="myimg" src="images/get-ahead.png" />
                                 <h3>Get ahead of the curve</h3>
                                 <p>Gain insights from data-driven smart analysis tools to spot trends first to make the right investments.</p>
                             </div>
@@ -275,7 +275,7 @@ class MainPage extends Component {
                         <div>
                             <div className="col-md-4 col-sm-4 col-xs-12">
                                 <div className="platform_grid">
-                                    <img src="images/confidence.png" />
+                                    <img alt="myimg" src="images/confidence.png" />
                                     <h3>Move with confidence</h3>
                                     <p>Have all necessary financial verification and documentation uploaded and stored securely in one place.</p>
                                 </div>
@@ -283,10 +283,10 @@ class MainPage extends Component {
                            
                         </div>
                         <div>
-                            <img className="hidden" src="http://lorempixel.com/output/cats-q-c-640-480-3.jpg" />
+                            <img alt="myimg" className="hidden" src="http://lorempixel.com/output/cats-q-c-640-480-3.jpg" />
                             <div className="col-md-4 col-sm-4">
                                 <div className="platform_grid">
-                                    <img src="images/save-time.png" />
+                                    <img alt="myimg" src="images/save-time.png" />
                                     <h3>Save time and hassles</h3>
                                     <p>Simplify buying and selling with our online, end-to-end, automated transaction platform.</p>
                                 </div>
@@ -307,7 +307,7 @@ class MainPage extends Component {
                             <div className="row">
                                 <div className="col-md-6 col-sm-12">
                                     <div className="blog_grid">
-                                        <img src="images/pic3.png" />
+                                        <img alt="myimg" src="images/pic3.png" />
                                         <div className="blog_caption">
                                             <p>Why Neighborhoods with Strong Communities Make Great Places to Live</p>
                                         </div>
@@ -315,7 +315,7 @@ class MainPage extends Component {
                                     <div className="row">
                                         <div className="col-md-6 col-sm-6 col-xs-6">
                                             <div className="blog_grid">
-                                                <img src="images/pic6.png" />
+                                                <img alt="myimg" src="images/pic6.png" />
                                                 <div className="blog_caption">
                                                     <p>Eliminate confusion</p>
                                                 </div>
@@ -323,7 +323,7 @@ class MainPage extends Component {
                                         </div>
                                         <div className="col-md-6 col-sm-6 col-xs-6">
                                             <div className="blog_grid">
-                                                <img src="images/pic4.png" />
+                                                <img alt="myimg" src="images/pic4.png" />
                                                 <div className="blog_caption">
                                                     <p>Move with confidence</p>
                                                 </div>
@@ -333,7 +333,7 @@ class MainPage extends Component {
                                 </div>
                                 <div className="col-md-6 col-sm-12">
                                     <div className="blog_grid visible-xs">
-                                        <img src="images/pic2.png" />
+                                        <img alt="myimg" src="images/pic2.png" />
                                         <div className="blog_caption">
                                             <p>Why Neighborhoods with Strong</p>
                                         </div>
@@ -341,7 +341,7 @@ class MainPage extends Component {
                                     <div className="row">
                                         <div className="col-md-6 col-sm-6 col-xs-6">
                                             <div className="blog_grid">
-                                                <img src="images/pic5.png" />
+                                                <img alt="myimg" src="images/pic5.png" />
                                                 <div className="blog_caption">
                                                     <p>Create happier, more loyal clients</p>
                                                 </div>
@@ -349,7 +349,7 @@ class MainPage extends Component {
                                         </div>
                                         <div className="col-md-6 col-sm-6 col-xs-6">
                                             <div className="blog_grid">
-                                                <img src="images/pic1.png" />
+                                                <img alt="myimg" src="images/pic1.png" />
                                                 <div className="blog_caption">
                                                     <p>Move with confidence</p>
                                                 </div>
@@ -357,7 +357,7 @@ class MainPage extends Component {
                                         </div>
                                     </div>
                                     <div className="blog_grid hidden-xs">
-                                        <img src="images/pic2.png" />
+                                        <img alt="myimg" src="images/pic2.png" />
                                         <div className="blog_caption">
                                             <p>Why Neighborhoods with Strong</p>
                                         </div>
@@ -377,7 +377,7 @@ class MainPage extends Component {
                             </div>
                             <div className="row">
                                 <div className="cont_img">
-                                    <img src="images/Register_your_interest.png" />
+                                    <img alt="myimg" src="images/Register_your_interest.png" />
                                 </div>
                                 <div className="contact_form">
                                     <form action="#">
