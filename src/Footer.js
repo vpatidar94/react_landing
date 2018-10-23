@@ -10,15 +10,15 @@ class Footer extends Component {
                                 <div className="display_table footer_main">
                                     <div className="footer_left">
                                         <div className="footer_logo">
-                                            <a href="javascript:void(0)"><img alt="img" src="images/logo.png" /></a> <span>&copy; 2018 nestb.com</span>
+                                            <a role="button"><img alt="img" src="images/logo.png" /></a> <span>&copy; 2018 nestb.com</span>
                                         </div>
                                     </div>
                                     <div className="footer_right">
                                         <ul className="footer_menu list-inline">
-                                            <li><a href="javascript:void(0)">Platform</a></li>
-                                            <li><a href="javascript:void(0)">Blogs</a></li>
-                                            <li><a href="javascript:void(0)">About Us</a></li>
-                                            <li><a href="javascript:void(0)">Contact Us</a></li>
+                                            <li><a role="button">Platform</a></li>
+                                            <li><a role="button">Blogs</a></li>
+                                            <li><a role="button">About Us</a></li>
+                                            <li><a role="button">Contact Us</a></li>
                                         </ul>
                                     </div>
                                 </div>
