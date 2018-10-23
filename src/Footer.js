@@ -10,7 +10,7 @@ class Footer extends Component {
                                 <div className="display_table footer_main">
                                     <div className="footer_left">
                                         <div className="footer_logo">
-                                            <a href=""><img alt="img" src="images/logo.png" /></a> <span>&copy; 2018 nestb.com</span>
+                                            <a href="#about_us"><img alt="img" src="images/logo.png" /></a> <span>&copy; 2018 nestb.com</span>
                                         </div>
                                     </div>
                                     <div className="footer_right">
